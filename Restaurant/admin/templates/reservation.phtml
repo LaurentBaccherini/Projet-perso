@@ -1,0 +1,30 @@
+<?php if(!$_SESSION['connected']) : ?>
+    <div class="navbar-item">
+        <div class="field is-grouped">
+            <p class="control">
+                <a href="connexion.php" class="button is-primary">Connexion</a>
+                <a href="client/destroy.php">Destroy Sesion</a>
+            </p>
+        </div>
+    </div>
+<?php else: ?>
+    <table>
+        <thead>
+            <th>Nom de la réservation</th>
+            <th>Date de la réservation</th>
+            <th>Nombre de personne</th>
+            <th>Téléphone</th>
+        </thead>
+        <tbody>
+            <?php foreach ($resas as $resa): ?>
+            <tr>
+                <td> <?= $resa['fullName'] ?> </td>
+                <td> <?= $resa['dateResa'] ?> </td>
+                <td> <?= $resa['personNumber'] ?> </td>
+                <td> <?= $resa['telephone'] ?> </td>
+            </tr>
+            <?php endforeach; ?>
+        </tbody>
+    </table>
+    <a href="index.php">Retour à l'accueil</a>
+<?php endif; ?>

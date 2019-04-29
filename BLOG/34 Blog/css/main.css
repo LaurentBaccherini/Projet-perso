@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Italiana');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Italiana';
+    font-weight:bold;
+}
+
+html,body{
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #eee;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Audiowide'
+}
+
+header,footer{
+    background-color:lightblue;
+}
+
+header>div, main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+    padding: 1em;
+}
+
+
+header>div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main{
+    padding:1em 0;
+}
+
+
+nav a{
+    text-decoration: none;
+    padding: 0 10px ;
+    border-right:1px solid grey;
+}
+
+nav a:last-child{
+    border:none;
+}
+
+.special{
+    background-color: navy;
+    color:white;
+    padding: 10px 20px;
+    border-radius:5px;
+    text-decoration: none;
+    margin-top: 1em;
+    display: inline-block;
+    border:none;
+    cursor: pointer;
+}
+
+.special.danger{
+    background-color: firebrick;
+}
+
+
+.special.success{
+    background-color: green;
+}
+
+/* Formulaires */
+
+form{
+    background-color: #eee;
+    padding: 2em;
+    border-radius:5px;
+    overflow:hidden;
+}
+
+input,textarea,select{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border:1px solid #ddd;
+}
+
+button[type="submit"]{
+    float: right;
+    
+}
+
+
+/*********************** ACCUEIL *****************************/
+
+section.articles article img{
+    max-width: 30%;
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+section.articles article::after{
+    display: block;
+    content: '';
+    clear: both;
+}
+
+
+
+
+/************************  ARTICLE  ***************************/
+
+
+main>article div.heading{
+    padding: 5em 0;
+    background-size:cover;
+    background-position:center;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+
+/*************************  NEW  *******************************/
+textarea[name="content"]{
+    height: 300px;
+}

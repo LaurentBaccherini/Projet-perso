@@ -1,0 +1,15 @@
+<form action="libraries/tasks.php?task=save" method="POST">
+    <h2>Créer un nouvel article</h2>
+    <input type="text" name="title" placeholder="Titre de l'article">
+    <input type="text" name="image_url" placeholder="URL de l'image">
+    
+    <select name="category_id">
+        <?php foreach($categories as $categorie) : ?>
+            <option value="<?= $categorie['id'] ?>"><?= $categorie['title'] ?></option>
+        <?php endforeach ?>
+    </select>
+    
+    <textarea name="introduction" placeholder="Introduction de l'article (texte court)"></textarea>
+    <textarea name="content" placeholder="Contenu de l'article (texte long)"></textarea>
+    <button type="submit" class="special success">Enregistrer</button>
+</form>

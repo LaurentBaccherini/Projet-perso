@@ -1,0 +1,20 @@
+
+        <?php if(!$_SESSION['connected']) : ?>
+            <div class="navbar-item">
+                <div class="field is-grouped">
+                    <p class="control">
+                        <a href="connexion.php" class="button is-primary">Connexion</a>
+                        <a href="client/destroy.php">Destroy Sesion</a>
+                    </p>
+                </div>
+            </div>
+        <?php else: ?>
+            <form action="saveNew.php" method="POST">
+                <input type="text" name="name" placeholder="Nom du plat">
+                <input type="text" name="imageUrl" placeholder="Url de l'image">
+                <textarea name="description" placeholder="Votre description"></textarea>
+                <input type="text" name="stock" placeholder="stock du plat">
+                <input type="text" name="price" placeholder="prix du plat">
+                <button type="submit"> Valider le plat</button>
+            </form>
+        <?php endif; ?>

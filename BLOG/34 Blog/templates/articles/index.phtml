@@ -1,0 +1,15 @@
+<section class="articles">
+	<?php foreach ($articles as $article) : ?>
+    <article>
+        <h2><?= $article['title'] ?>
+        </h2>
+        <div class="metadata"></div>
+        <img src="<?= $article['image_url'] ?>" alt="">
+        <div class="intro">
+            <?= $article['introduction'] ?>
+            <a href="article.php?id=<?= $article['id']; ?>" class="special">Lire la suite</a>
+        </div>
+    </article>
+    <?php endforeach; ?>
+</section>
+		

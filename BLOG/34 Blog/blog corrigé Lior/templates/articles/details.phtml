@@ -1,0 +1,19 @@
+<article>
+    <div class="heading" style="background-image: url(<?= $article['image_url'] ?>)">
+        <h2><?= $article['title'] ?></h2>
+        <div class="metadata">
+            Ecrit par Maman, le 10/01/2018 à 18:15 dans la catégorie <strong><?= $article['categoryTitle'] ?></strong>
+        </div>
+    </div>
+    <div class="intro">
+        <?= $article['introduction'] ?>
+    </div>
+    <div class="content">
+        <?= $article['content'] ?>
+    </div>
+    
+    <div class="tools">
+        <a href="article-edit.php?id=<?= $article['id'] ?>" class="special">Modifier</a>
+        <a href="delete-article.php?id=<?= $article['id'] ?>" class="special danger">Supprimer</a>
+    </div>
+</article>

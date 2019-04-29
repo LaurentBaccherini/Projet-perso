@@ -1,0 +1,27 @@
+<section class="section">
+    <div class="columns">
+        <div class="column content is-8 image">
+            <img src="<?= $annonce->image_url?>"/>
+            <p><?= $annonce->short_description?></p>
+            <h2 class="title">Plus d'informations</h2>
+            <p><?= $annonce->description ?></p>
+            <a href="index.php?action=edit&id=<?= $annonce->id ?>" class="button is-primary">Modifier</a>
+            <a href="index.php?action=delete&id=<?= $annonce->id ?>" class="button is-danger">Supprimer</a>
+        </div>
+        <div class="column">
+            <h2 class="title">A propos de <?= $annonce->full_name ?></h2>
+            <div class="columns ">
+                <div class="column is-3">
+                    <img src="<?= $annonce->user_image_url ?>"/>
+                </div>
+                <div class="column">
+                    <h2 class="subtitle">A propos du vendeur</h2>
+                    <p>Email:<strong><?= $annonce->email ?></strong></p>
+                </div>
+            </div>
+            <p><?= $annonce->user_description ?></p>
+            <p><?= $annonce->price ?></p>
+            <a href="#" class="button is-primary">Voir le profil</a>
+        </div>
+    </div>
+</section>

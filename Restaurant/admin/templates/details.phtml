@@ -1,0 +1,48 @@
+<?php if(!$_SESSION['connected']) : ?>
+            <div class="navbar-item">
+                <div class="field is-grouped">
+                    <p class="control">
+                        <a href="connexion.php" class="button is-primary">Connexion</a>
+                        <a href="client/destroy.php">Destroy Sesion</a>
+                    </p>
+                </div>
+            </div>
+        <?php else: ?>
+            <table>
+                <thead>
+                    <th>Numero de commande</th>
+                    <th>Plat commandé</th>
+                    <th>quantité</th>
+                    <th>prix unitaire</th>
+                    <th>total par éléments</th>
+                    
+                </thead>
+                <tbody>
+                    <?php foreach ($commandeDetails as $commande): ?>
+                    <tr>
+                        <td> <?= $commande['idCommande'] ?> </td>
+                        <td> <?= $commande['name'] ?> </td>
+                        <td> <?= $commande['quantity'] ?> </td>
+                        <td> <?= $commande['price'] ?> </td>
+                        <td> <?= $commande['total'] ?> </td>
+                        
+                    </tr>
+                    <?php endforeach; ?>
+                </tbody>
+                <tfoot>
+                        <tr>
+                            <td colspan=4>Total de la comamnde</td>
+                            <td><?= $totalProduits?></td>
+                        </tr>
+                          <tr>
+                            <td colspan="4">TVA :</td>
+                            <td><?= $totalProduits * 0.2 ?> €</td>
+                        </tr>
+                        <tr>
+                            <td colspan="4">Total TTC :</td>
+                            <td><?= $totalProduits * 1.2 ?> €</td>
+                        </tr>
+                    </tfoot>
+            </table>
+            <a href="commandes.php">Retour à la liste des commandes</a>
+        <?php endif; ?>

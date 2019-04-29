@@ -1,0 +1,23 @@
+<form action="modif.php" method="POST">
+    <h2>Créer un nouvel article</h2>
+    <input type="hidden" name="id"  value="<?= $articleDetails['id'] ?>">
+    <input type="text" name="title" placeholder="Titre de l'article" value="<?= $articleDetails['title'] ?>">
+    <input type="text" name="image_url" placeholder="url de l'image" value="<?= $articleDetails['image_url']; ?>">
+    <select name="category_id" id="" value="<?= $categorie['id']; ?>">
+        <?php foreach ($categoriesArticle as $categorie): ?>
+            <?php if ($articleDetails['category_id'] == $categorie['id']):?>
+                <option value="<?= $categorie['id']; ?>" selected><?= $categorie['title'] ?></option>
+            <?php else :?>
+            <option value="<?= $categorie['id']; ?>" ><?= $categorie['title'] ?></option>
+            <?php endif; ?>
+        <?php endforeach; ?>
+    </select>
+    <textarea name="introduction" placeholder="Introduction de l'article (texte court)"><?= $articleDetails['introduction']; ?></textarea>
+    <textarea name="content" placeholder="Contenu de l'article (texte long)"><?= $articleDetails['content']; ?></textarea>
+    <button type="submit" class="special succes">Enregistrer la modification</button>
+    <script>
+        CKEDITOR.replace('content');
+    </script>
+</form>
+<script type="text/javascript" src='JS/script.js'></script>
+<script type="text/javascript" src="ckeditor/ckeditor.js"></script>

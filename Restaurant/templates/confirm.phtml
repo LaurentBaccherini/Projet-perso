@@ -1,0 +1,51 @@
+<?php  if (!empty($_SESSION['panier'])):?>
+<table>
+    <thead>
+        <tr>
+            <th>Nom du produit</th>
+            <th>Prix unitaire</th>
+            <th>Quantité</th>
+            <th>Prix total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach($_SESSION['panier'] as $item) : ?>
+            <tr>
+                <td><?=$item['produit']['name']?></td>
+                <td><?=$item['produit']['price']?></td>
+                <td><?=$item['quantite']?></td>
+                <td><?=$item['produit']['price']*$item['quantite']?></td>
+                
+            </tr>
+        <?php endforeach ?>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan=3>Total</td>
+            <td><?= $totalProduits?></td>
+        </tr>
+          <tr>
+            <td colspan="3">TVA :</td>
+            <td><?= $totalProduits * 0.2 ?> €</td>
+        </tr>
+        <tr>
+            <td colspan="3">Total TTC :</td>
+            <td><?= $totalProduits * 1.2 ?> €</td>
+        </tr>
+    </tfoot>
+</table>
+<form action="utilitaires/erase.php" method="post">
+    <button>Vider la panier</button>
+</form>
+<form action="utilitaires/validation.php" method="POST">
+    <input type="text" name="fullName" placeholder="Votre nom">
+    <input type="text" name="adress" placeholder="Votre adresse">
+    <input type="text" name ="postalCode" placeholder="code postal">
+    <input type="text" name="city" placeholder="Ville">
+    <input type="tel" name="telephone" placeholder="téléphone">
+    <button type="submit">Valider la commande</button>
+</form>
+<?php else :?>
+<p>Vous n'avez pas d'article dans votre panier</p>
+<a href="index.php">Retour à l'accueil</a>
+<?php endif;?>

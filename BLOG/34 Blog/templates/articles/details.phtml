@@ -1,0 +1,27 @@
+<article>
+    <div class="heading" style ="background-image: url(<?= $articleDetails['image_url']; ?>)">
+        <h2><?= $articleDetails['title']; ?></h2>
+        <div class="metadata">Ecrit par Maman,le  <?= $articleDetails['created_at']; ?> dans la categorie <strong><?= $articleDetails['categoryTitle']; ?></strong>
+        </div>
+    </div>
+    <div class="intro">
+        <?= $articleDetails['introduction']; ?>
+    </div>
+    <div class="content">
+        <?= $articleDetails['content']; ?>
+    </div>
+    <div id="tools">
+        <a href="edit.php?id=<?= $articleDetails['id']; ?>" class="special">Modifier</a>
+        <a href="delete.php?id=<?= $articleDetails['id']; ?>" class="special danger">Supprimer</a>
+    </div>
+    <aside>
+        <?php foreach ($coms as $com):?>
+            <article>
+                <h1><?=$com['title']?></h1>
+                <p><?=$com['LogUser']?></p>
+                <p><?=$com['created_at']?></p>
+                <p><?=$com['content']?></p>
+            </article>
+        <?php endforeach; ?>
+    </aside>
+</article>

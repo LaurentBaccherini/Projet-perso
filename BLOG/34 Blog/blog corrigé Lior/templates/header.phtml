@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Le Blog de Maman</title>
+    <link rel="stylesheet" href="css/styles.css" type="text/css" />
+</head>
+<body>
+    
+    <header>
+        <div>
+            <h1>Le Blog de Maman</h1>
+            <?php require('templates/nav.phtml') ?>
+        </div>
+    </header>
+    
+    <main>
+        <?php if(!empty($_GET['errorMessage'])): ?>
+            <div class="error">
+                <?= $_GET['errorMessage'] ?>
+            </div>
+        <?php elseif(!empty($errorMessage)): ?>
+            <div class="error">
+                <?= $errorMessage ?>
+            </div>
+        <?php endif; ?>

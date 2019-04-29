@@ -1,0 +1,612 @@
+[15-Mar-2018 13:18:48 UTC] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 6
+[15-Mar-2018 13:18:48 UTC] PHP Stack trace:
+[15-Mar-2018 13:18:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:18:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 6
+[15-Mar-2018 13:18:48 UTC] PHP Stack trace:
+[15-Mar-2018 13:18:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:19:32 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 103
+[15-Mar-2018 13:19:32 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:19:32 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 103
+[15-Mar-2018 13:19:32 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:19:51 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 103
+[15-Mar-2018 13:19:51 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:19:52 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:19:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 103
+[15-Mar-2018 13:19:52 UTC] PHP Stack trace:
+[15-Mar-2018 13:19:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:20:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:20:38 UTC] PHP Stack trace:
+[15-Mar-2018 13:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:20:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 103
+[15-Mar-2018 13:20:38 UTC] PHP Stack trace:
+[15-Mar-2018 13:20:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:20:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:20:39 UTC] PHP Stack trace:
+[15-Mar-2018 13:20:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:20:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 103
+[15-Mar-2018 13:20:39 UTC] PHP Stack trace:
+[15-Mar-2018 13:20:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:22:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:22:02 UTC] PHP Stack trace:
+[15-Mar-2018 13:22:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:22:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 97
+[15-Mar-2018 13:22:02 UTC] PHP Stack trace:
+[15-Mar-2018 13:22:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:22:03 UTC] PHP Stack trace:
+[15-Mar-2018 13:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 97
+[15-Mar-2018 13:22:03 UTC] PHP Stack trace:
+[15-Mar-2018 13:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:22:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:22:59 UTC] PHP Stack trace:
+[15-Mar-2018 13:22:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:22:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 97
+[15-Mar-2018 13:22:59 UTC] PHP Stack trace:
+[15-Mar-2018 13:22:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:34:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:34:40 UTC] PHP Stack trace:
+[15-Mar-2018 13:34:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:34:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:34:41 UTC] PHP Stack trace:
+[15-Mar-2018 13:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:35:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:35:36 UTC] PHP Stack trace:
+[15-Mar-2018 13:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:35:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 12
+[15-Mar-2018 13:35:36 UTC] PHP Stack trace:
+[15-Mar-2018 13:35:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 13:35:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 10
+[15-Mar-2018 13:48:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1102] Incorrect database name 'Restaurant '' in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/admin/connexion.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php on line 10
+[15-Mar-2018 13:50:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1102] Incorrect database name 'Restaurant '' in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/admin/connexion.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php on line 10
+[15-Mar-2018 13:51:23 UTC] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:51:23 UTC] PHP Stack trace:
+[15-Mar-2018 13:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:51:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:51:23 UTC] PHP Stack trace:
+[15-Mar-2018 13:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:57:58 UTC] PHP Warning:  require_once(libraries/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:57:58 UTC] PHP Stack trace:
+[15-Mar-2018 13:57:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:57:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'libraries/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:57:58 UTC] PHP Stack trace:
+[15-Mar-2018 13:57:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:58:18 UTC] PHP Warning:  require_once(libraries/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:58:18 UTC] PHP Stack trace:
+[15-Mar-2018 13:58:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:58:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'libraries/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:58:18 UTC] PHP Stack trace:
+[15-Mar-2018 13:58:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:58:23 UTC] PHP Warning:  require_once(libraries/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:58:23 UTC] PHP Stack trace:
+[15-Mar-2018 13:58:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:58:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'libraries/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php on line 7
+[15-Mar-2018 13:58:23 UTC] PHP Stack trace:
+[15-Mar-2018 13:58:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/ajoutPanier.php:0
+[15-Mar-2018 13:59:36 UTC] PHP Warning:  require_once(libraries/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/confirmerCommande.php on line 5
+[15-Mar-2018 13:59:36 UTC] PHP Stack trace:
+[15-Mar-2018 13:59:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/confirmerCommande.php:0
+[15-Mar-2018 13:59:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'libraries/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/confirmerCommande.php on line 5
+[15-Mar-2018 13:59:36 UTC] PHP Stack trace:
+[15-Mar-2018 13:59:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/confirmerCommande.php:0
+[15-Mar-2018 14:02:44 UTC] PHP Warning:  require_once(../database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 6
+[15-Mar-2018 14:02:44 UTC] PHP Stack trace:
+[15-Mar-2018 14:02:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 14:02:44 UTC] PHP Fatal error:  require_once(): Failed opening required '../database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/admin/index.php on line 6
+[15-Mar-2018 14:02:44 UTC] PHP Stack trace:
+[15-Mar-2018 14:02:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/index.php:0
+[15-Mar-2018 14:03:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1102] Incorrect database name 'Restaurant '' in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/admin/connexion.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php on line 10
+[15-Mar-2018 14:04:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1102] Incorrect database name 'Restaurant '' in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/admin/connexion.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php on line 10
+[15-Mar-2018 14:10:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1102] Incorrect database name 'Restaurant '' in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/admin/connexion.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php on line 10
+[15-Mar-2018 15:08:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(13): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:12:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(13): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:12:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(13): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:13:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(13): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:13:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(15): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:14:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(15): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:15:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:155
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(155): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/saveNew.php(15): newplat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 155
+[15-Mar-2018 15:22:39 UTC] PHP Parse error:  syntax error, unexpected '$details' (T_VARIABLE) in /home/ubuntu/workspace/Opération_Restau/admin/modifier.php on line 7
+[15-Mar-2018 15:27:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ame' in 'field list'' in /home/ubuntu/workspace/Opération_Restau/libraries/database.php:178
+Stack trace:
+#0 /home/ubuntu/workspace/Opération_Restau/libraries/database.php(178): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/Opération_Restau/admin/modif.php(16): modifPlat(Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 178
+[15-Mar-2018 15:31:10 UTC] PHP Parse error:  syntax error, unexpected 'deletePlat' (T_STRING) in /home/ubuntu/workspace/Opération_Restau/admin/delete.php on line 6
+[15-Mar-2018 15:31:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Opération_Restau/admin/delete.php on line 4
+[16-Mar-2018 08:27:06 UTC] PHP Fatal error:  Call to a member function prepapre() on a non-object in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 202
+[16-Mar-2018 08:27:06 UTC] PHP Stack trace:
+[16-Mar-2018 08:27:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:27:06 UTC] PHP   2. detailsCmd() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:7
+[16-Mar-2018 08:27:20 UTC] PHP Fatal error:  Call to undefined method PDO::prepapre() in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 202
+[16-Mar-2018 08:27:20 UTC] PHP Stack trace:
+[16-Mar-2018 08:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:27:20 UTC] PHP   2. detailsCmd() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:7
+[16-Mar-2018 08:27:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 33
+[16-Mar-2018 08:27:40 UTC] PHP Stack trace:
+[16-Mar-2018 08:27:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:28:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 34
+[16-Mar-2018 08:28:09 UTC] PHP Stack trace:
+[16-Mar-2018 08:28:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:33:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 34
+[16-Mar-2018 08:33:36 UTC] PHP Stack trace:
+[16-Mar-2018 08:33:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:04 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:04 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:25 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:25 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:35:53 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 40
+[16-Mar-2018 08:35:53 UTC] PHP Stack trace:
+[16-Mar-2018 08:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 35
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 35
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 35
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idCommande' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 35
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'idPlat' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 36
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 37
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 38
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 08:36:51 UTC] PHP Warning:  Illegal string offset 'total' in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 39
+[16-Mar-2018 08:36:51 UTC] PHP Stack trace:
+[16-Mar-2018 08:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:11:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 13
+[16-Mar-2018 09:11:05 UTC] PHP Stack trace:
+[16-Mar-2018 09:11:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:25:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 11
+[16-Mar-2018 09:25:19 UTC] PHP Stack trace:
+[16-Mar-2018 09:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:25:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 11
+[16-Mar-2018 09:25:25 UTC] PHP Stack trace:
+[16-Mar-2018 09:25:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 11
+[16-Mar-2018 09:26:10 UTC] PHP Stack trace:
+[16-Mar-2018 09:26:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:26:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 11
+[16-Mar-2018 09:26:15 UTC] PHP Stack trace:
+[16-Mar-2018 09:26:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 11
+[16-Mar-2018 09:26:20 UTC] PHP Stack trace:
+[16-Mar-2018 09:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:27:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 13
+[16-Mar-2018 09:27:03 UTC] PHP Stack trace:
+[16-Mar-2018 09:27:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:27:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 13
+[16-Mar-2018 09:27:03 UTC] PHP Stack trace:
+[16-Mar-2018 09:27:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:27:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:27:23 UTC] PHP Stack trace:
+[16-Mar-2018 09:27:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:27:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:27:24 UTC] PHP Stack trace:
+[16-Mar-2018 09:27:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:28:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:28:01 UTC] PHP Stack trace:
+[16-Mar-2018 09:28:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:29:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:29:17 UTC] PHP Stack trace:
+[16-Mar-2018 09:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:29:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:29:24 UTC] PHP Stack trace:
+[16-Mar-2018 09:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:29:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:29:24 UTC] PHP Stack trace:
+[16-Mar-2018 09:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:29:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:29:54 UTC] PHP Stack trace:
+[16-Mar-2018 09:29:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 09:29:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 14
+[16-Mar-2018 09:29:55 UTC] PHP Stack trace:
+[16-Mar-2018 09:29:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 10:20:10 UTC] PHP Warning:  require_once(templates/footer?phtml): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 80
+[16-Mar-2018 10:20:10 UTC] PHP Stack trace:
+[16-Mar-2018 10:20:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 10:20:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'templates/footer?phtml' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php on line 80
+[16-Mar-2018 10:20:10 UTC] PHP Stack trace:
+[16-Mar-2018 10:20:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/commandeDetails.php:0
+[16-Mar-2018 10:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/admin/templates/reservation.phtml on line 19
+[16-Mar-2018 10:36:58 UTC] PHP Stack trace:
+[16-Mar-2018 10:36:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/reservation.php:0
+[16-Mar-2018 10:36:58 UTC] PHP   2. require_once() /home/ubuntu/workspace/Opération_Restau/admin/reservation.php:8
+[16-Mar-2018 10:57:03 UTC] PHP Warning:  require_once(libraries/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 6
+[16-Mar-2018 10:57:03 UTC] PHP Stack trace:
+[16-Mar-2018 10:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 10:57:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'libraries/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 6
+[16-Mar-2018 10:57:03 UTC] PHP Stack trace:
+[16-Mar-2018 10:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:00:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:00:22 UTC] PHP Stack trace:
+[16-Mar-2018 11:00:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:00:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:00:22 UTC] PHP Stack trace:
+[16-Mar-2018 11:00:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:01:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:01:39 UTC] PHP Stack trace:
+[16-Mar-2018 11:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:01:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:01:39 UTC] PHP Stack trace:
+[16-Mar-2018 11:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:04:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:04:30 UTC] PHP Stack trace:
+[16-Mar-2018 11:04:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:04:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:04:30 UTC] PHP Stack trace:
+[16-Mar-2018 11:04:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:04:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:04:47 UTC] PHP Stack trace:
+[16-Mar-2018 11:04:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:04:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:04:47 UTC] PHP Stack trace:
+[16-Mar-2018 11:04:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:06:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:06:27 UTC] PHP Stack trace:
+[16-Mar-2018 11:06:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:06:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:06:27 UTC] PHP Stack trace:
+[16-Mar-2018 11:06:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:07:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:07:27 UTC] PHP Stack trace:
+[16-Mar-2018 11:07:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:07:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:07:27 UTC] PHP Stack trace:
+[16-Mar-2018 11:07:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:07:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:07:59 UTC] PHP Stack trace:
+[16-Mar-2018 11:07:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:07:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:07:59 UTC] PHP Stack trace:
+[16-Mar-2018 11:07:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:08:23 UTC] PHP Stack trace:
+[16-Mar-2018 11:08:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:08:23 UTC] PHP Stack trace:
+[16-Mar-2018 11:08:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:08:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:08:40 UTC] PHP Stack trace:
+[16-Mar-2018 11:08:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:08:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:08:40 UTC] PHP Stack trace:
+[16-Mar-2018 11:08:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:08:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:08:41 UTC] PHP Stack trace:
+[16-Mar-2018 11:08:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:08:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:08:41 UTC] PHP Stack trace:
+[16-Mar-2018 11:08:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:10:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:10:01 UTC] PHP Stack trace:
+[16-Mar-2018 11:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:10:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 99
+[16-Mar-2018 11:10:01 UTC] PHP Stack trace:
+[16-Mar-2018 11:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:11:05 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:05 UTC] PHP Warning:  require_once(client/templates/header.phtml): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 19
+[16-Mar-2018 11:11:05 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'client/templates/header.phtml' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 19
+[16-Mar-2018 11:11:05 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:11:39 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/templates/index.phtml on line 61
+[16-Mar-2018 11:11:39 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/Opération_Restau/client/index.php:21
+[16-Mar-2018 11:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/index.php on line 12
+[16-Mar-2018 11:11:39 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Opération_Restau/client/templates/index.phtml on line 61
+[16-Mar-2018 11:11:39 UTC] PHP Stack trace:
+[16-Mar-2018 11:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/client/index.php:0
+[16-Mar-2018 11:11:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/Opération_Restau/client/index.php:21
+[19-Mar-2018 10:41:32 UTC] PHP Warning:  require_once(libraries/database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Opération_Restau/utilitaires/resa.php on line 3
+[19-Mar-2018 10:41:32 UTC] PHP Stack trace:
+[19-Mar-2018 10:41:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/utilitaires/resa.php:0
+[19-Mar-2018 10:41:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'libraries/database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Opération_Restau/utilitaires/resa.php on line 3
+[19-Mar-2018 10:41:32 UTC] PHP Stack trace:
+[19-Mar-2018 10:41:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/utilitaires/resa.php:0
+[19-Mar-2018 11:05:03 UTC] PHP Warning:  Missing argument 1 for erase(), called in /home/ubuntu/workspace/Opération_Restau/utilitaires/erase.php on line 5 and defined in /home/ubuntu/workspace/Opération_Restau/libraries/database.php on line 222
+[19-Mar-2018 11:05:03 UTC] PHP Stack trace:
+[19-Mar-2018 11:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/utilitaires/erase.php:0
+[19-Mar-2018 11:05:03 UTC] PHP   2. erase() /home/ubuntu/workspace/Opération_Restau/utilitaires/erase.php:5
+[19-Mar-2018 13:17:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Opération_Restau/admin/templates/nav.phtml on line 4
+[19-Mar-2018 13:17:16 UTC] PHP Stack trace:
+[19-Mar-2018 13:17:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:0
+[19-Mar-2018 13:17:33 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ubuntu/workspace/Opération_Restau/admin/templates/nav.phtml on line 3
+[19-Mar-2018 13:17:33 UTC] PHP Stack trace:
+[19-Mar-2018 13:17:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Opération_Restau/admin/connexion.php:0
+[12-Sep-2018 06:43:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/Opération_Restau/admin/connexion.php on line 26

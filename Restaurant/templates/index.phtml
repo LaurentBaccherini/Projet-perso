@@ -1,0 +1,59 @@
+
+<h1>Bienvenue sur RESTAUWEB</h1>
+<aside>
+    <?php if (!empty($_SESSION['panier'])): ?>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nom du produit</th>
+                    <th>Prix unitaire</th>
+                    <th>Quantité</th>
+                    <th>Modifier votre panier</th>
+                    <th>Prix total</th>
+                </tr>
+            </thead>
+            <tbody>
+                    <?php foreach($_SESSION['panier'] as $item) : ?>
+                        <tr>
+                            <td><?=$item['produit']['name']?></td>
+                            <td><?=$item['produit']['price']?></td>
+                            <td><?=$item['quantite']?></td>
+                            <td>
+                                <a href="utilitaires/plusPanier.php?id=<?= $item['produit']['id']?>">+</a>
+                                <a href="utilitaires/moinsPanier.php?id=<?= $item['produit']['id']?>">-</a>
+                                <a href="utilitaires/unsetPanier.php?id=<?= $item['produit']['id']?>">Retirer</a>
+                            </td>
+                            <td><?=$item['produit']['price']*$item['quantite']?></td>
+                        </tr>
+                    <?php endforeach ?>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan=4>Total</td>
+                    <td><?= $totalProduits?></td>
+                </tr>
+                  <tr>
+                    <td colspan="4">TVA :</td>
+                    <td><?= $totalProduits * 0.2 ?> €</td>
+                </tr>
+                <tr>
+                    <td colspan="4">Total TTC :</td>
+                    <td><?= $totalProduits * 1.2 ?> €</td>
+                </tr>
+            </tfoot>
+        </table>
+    <?php endif; ?>
+</aside>
+<article class="parent">
+    <?php foreach ($plats as $plat): ?>
+    <figure class=>
+        <img src="<?= $plat['imageUrl'] ?>"/>
+        <figcaption>
+            <h2><?= $plat['name']?></h2>
+            <p> <?= $plat['description'] ?> </p>
+            <p> <?= $plat['price'] ?>€ </p>
+        </figcaption>
+    <a href="utilitaires/ajoutPanier.php?id=<?= $plat['id'] ?>">Ajouter au Panier</a>
+    </figure>
+    <?php endforeach; ?>
+</article>

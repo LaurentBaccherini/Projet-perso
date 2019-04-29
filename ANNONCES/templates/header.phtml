@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Petites annonces 3WA</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" />
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-brand">
+            <a href="index.php" class="navbar-item">
+                <strong>Annonces 3WA</strong>
+            </a>
+            
+            <div class="navbar-burger">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+        </div>
+        
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a href="index.php?action=category&id=2" class="navbar-item">Appartements</a>
+                <a href="index.php?action=category&id=1" class="navbar-item">Voitures</a>
+            </div>
+            
+            <div class="navbar-end">
+                
+                <?php if(!$_SESSION['connected']) : ?>
+                    <div class="navbar-item">
+                        <div class="field is-grouped">
+                            <p class="control">
+                                <a href="index.php?controller=user&action=login" class="button is-primary">Connexion</a>
+                                <a href="index.php?controller=user&action=create" class="button is-success">Inscription</a>
+                            </p>
+                        </div>
+                    </div>
+                <?php else: ?>
+                
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a href="#" class="navbar-link">Lior C.</a>
+                        
+                        <div class="navbar-dropdown is-right">
+                            <a href="#" class="navbar-item">Mon compte</a>
+                            <a href="#" class="navbar-item">Mes annonces</a>
+                            <a href="index.php?action=create" class="navbar-item">Créer une annonce</a>
+                            <a href="index.php?controller=user&action=logout" class="navbar-item">Déconnexion</a>
+                        </div>
+                    </div>
+                <?php endif; ?>
+            </div>
+        </div>
+    </nav>
+    
+    <?php if(!empty($error)): ?>
+        <header class="hero is-danger is-fullheight">
+    <?php else : ?>
+        <header class="hero is-light">
+    <?php endif; ?>
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title"><?= $pageTitle ?></h1>
+                <h2 class="subtitle"><?= $pageSubtitle ?></h2>
+                
+                <?php if(!empty($error)) : ?>
+                    <a href="index.php" class="button is-large">Retour à l'accueil</a>
+                <?php endif; ?>
+            </div>
+        </div>
+    </header>
+    
+    <main>

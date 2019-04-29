@@ -1,0 +1,27 @@
+        <?php if(!$_SESSION['connected']) : ?>
+            <div class="navbar-item">
+                <div class="field is-grouped">
+                    <p class="control">
+                        <a href="connexion.php" class="button is-primary">Connexion</a>
+                        <a href="client/destroy.php">Destroy Sesion</a>
+                    </p>
+                </div>
+            </div>
+        <?php else: ?>
+            <a href="index.php">Retour à l'accueil</a>
+            <a href="new.php">Créer un nouveau plat</a>
+            <article class="parent">
+                <?php foreach ($plats as $plat): ?>
+                <figure class=>
+                    <img src="<?= $plat['imageUrl'] ?>"/>
+                    <figcaption>
+                        <h2><?= $plat['name']?></h2>
+                        <p> <?= $plat['description'] ?> </p>
+                        <p> <?= $plat['price'] ?>€ </p>
+                    </figcaption>
+                <a href="modifier.php?id=<?=  $plat['id']?>">Modifier le plat</a>
+                <a href="delete.php?id=<?=  $plat['id']?>">Supprimer le plat</a>
+                </figure>
+                <?php endforeach; ?>
+            </article>
+        <?php endif; ?>

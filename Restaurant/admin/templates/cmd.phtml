@@ -1,0 +1,39 @@
+<?php if(!$_SESSION['connected']) : ?>
+    <div class="navbar-item">
+        <div class="field is-grouped">
+            <p class="control">
+                <a href="connexion.php" class="button is-primary">Connexion</a>
+                <a href="client/destroy.php">Destroy Sesion</a>
+            </p>
+        </div>
+    </div>
+<?php else: ?>
+    <table>
+        <thead>
+            <th>Numero de commande</th>
+            <th>Date de commande</th>
+            <th>Nom</th>
+            <th>Adresse</th>
+            <th>code postal</th>
+            <th>Ville</th>
+            <th>Telephone</th>
+            <th>Annuler</th>
+        </thead>
+        <tbody>
+            <?php foreach ($commandes as $commande): ?>
+            <tr>
+                <td> <a href="commandeDetails.php?id= <?= $commande['id'] ?> "><?= $commande['id'] ?></a> </td>
+                <td> <?= $commande['dateCommande'] ?> </td>
+                <td> <?= $commande['fullName'] ?> </td>
+                <td> <?= $commande['adress'] ?> </td>
+                <td> <?= $commande['postalCode'] ?> </td>
+                <td> <?= $commande['city'] ?> </td>
+                <td> <?= $commande['telephone'] ?> </td>
+                <td><a href="deleteCmd.php?id=<?= $commande['id'] ?> ">Supprimer la commande</a></td>
+            </tr>
+            <?php endforeach; ?>
+        </tbody>
+    </table>
+    <a href="index.php">Retour à l'accueil</a>
+    <a href="index.php">Retour à l'accueil</a>
+<?php endif; ?>

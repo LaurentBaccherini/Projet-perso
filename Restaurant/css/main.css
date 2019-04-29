@@ -1,0 +1,106 @@
+body{
+    text-align:center;
+}
+
+nav{
+    text-align:center;
+}
+nav a{
+    margin:5px 0;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:flex-start;
+}
+
+table{
+    width: 90%;
+    color:black;
+    margin:25px auto;
+    text-align:center;
+}
+
+thead{
+    background-color:lightblue;
+    text-align:center;
+    
+}
+
+tbody,tfoot{
+    background-color: lightblue;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+table th{
+    padding: 0 5px;
+    text-align:center;
+}
+
+table td{
+    
+    text-align: center;
+}
+
+body a{
+    border-radius: 20px;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+body a:hover{
+    
+    background-color:white;
+    color:black;
+    border: 1px solid black;
+    
+}
+
+header, footer{
+    
+    background:url('https://www.brasserie-bordelaise.fr/img/les-vins.jpg');
+    padding-bottom: 400px;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h1{
+    margin: 25px 0;
+    font-size: 30px;
+    text-align:center;
+    font-family: verdana;
+    font-weight:bold;
+}
+
+form{
+    margin: 25px 0;
+    text-align: center;
+}
+
+input{
+    padding: 5px;
+}
+
+textarea{
+    padding: 5px;
+    border-radius:5px;
+}
+
+#admin{
+    
+    background:url('http://www.brasseriev.com/wp-content/uploads/2015/05/BrasserieV1.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 200px;
+}
+

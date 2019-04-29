@@ -1,0 +1,16 @@
+<form action="save.php" method="POST">
+    <h2>Créer un nouvel article</h2>
+    <input type="text" name="title" placeholder="Titre de l'article">
+    <input type="text" name="image_url" placeholder="url de l'image">
+    <select name="category_id" id="">
+        <option value="1">Recettes</option>
+        <option value="2">Politique</option>
+        <option value="3">Famille</option>
+    </select>
+    <textarea name="introduction" placeholder="Introduction de l'article (texte court)"></textarea>
+    <textarea name="content" placeholder="Contenu de l'article (texte long)"></textarea>
+    <button type="submit" class="special succes">Enregistrer</button>
+     <script>
+        CKEDITOR.replace('content');
+    </script>
+</form>

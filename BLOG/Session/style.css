@@ -1,0 +1,23 @@
+div.flash {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+div.flash.success {
+    background-color: green;
+    color: white;
+    border-color: lime;
+}
+
+div.flash.error {
+    background-color: firebrick;
+    color: white;
+    border-color: red;
+}
+
+div.flash.info {
+    background-color: navy;
+    color: white;
+    border-color: blue;
+}

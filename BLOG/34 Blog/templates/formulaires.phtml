@@ -1,0 +1,7 @@
+<form action="comment.php" METHOD="POST" id="saveComment">
+    <input type="hidden" name="id_art"  value="<?= $articleDetails['id'] ?>">
+    <input type="text" name="pseudo" placeholder="Votre pseudo"/>
+    <input type="text" name="titreCom" placeholder="Titre de votre commentaire"/>
+    <textarea name="contentCom" placeholder="Ecrivez vos commentaire ici!"></textarea>
+    <button type="submit" class="special succes">Envoyer le commentaire</button>
+</form>
